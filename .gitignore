@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/python-learn.iml
+.idea/workspace.xml
+file/
